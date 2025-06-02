@@ -1,5 +1,5 @@
 # ようこそ！
-立命館大学ロボット技術研究会、NHKプロジェクトのGitHubです。
+立命館大学ロボット技術研究会、NHKプロジェクトのGitHubです。  
 ![Logo](https://www.rrst.jp/img/logo.png)
 # ルール
 自由にリポジトリ作成ok  
