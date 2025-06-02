@@ -1,9 +1,10 @@
 # ようこそ！
 立命館大学ロボット技術研究会、NHKプロジェクトのGitHubです。  
-![Logo](https://www.rrst.jp/img/logo.png)
 # ルール
 自由にリポジトリ作成ok  
 各自でリポジトリを管理し、不要になったものは削除してください   
 ある程度進捗が出たらreadmeもしくはnotionに詳細をまとめてください  
-更新予定のないリポジトリはアーカイブしてください  
+更新予定のないリポジトリはアーカイブしてください
+#Powered By
+![Logo](https://www.rrst.jp/img/logo.png)
 
