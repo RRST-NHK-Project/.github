@@ -5,6 +5,6 @@
 各自でリポジトリを管理し、不要になったものは削除してください   
 ある程度進捗が出たらreadmeもしくはnotionに詳細をまとめてください  
 更新予定のないリポジトリはアーカイブしてください
-# Powered By
+# Powered by
 ![Logo](https://www.rrst.jp/img/logo.png)
 
